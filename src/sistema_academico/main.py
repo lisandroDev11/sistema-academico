@@ -1,0 +1,1 @@
+print("Licha detonador")
